@@ -25,7 +25,7 @@ def driver():
         
           if response.lower() == 'quit':
             bag.displayList()
-            print('Thanks for shopping!')
+            print('Have A Great day :)!')
             break
           elif response.lower() == 'add':
             bag.addItems()
